@@ -17,9 +17,9 @@ Set the Rocky Linux 9 VM network adapter to **Bridged Adapter** so it gets an IP
    ```
   Use this IP address when connecting from Windows.
 
-## Connect from Windows using OpenSSH ![PuTTY](https://img.shields.io/badge/-PuTTY-000000?logo=putty&logoColor=white&style=flat-square)
+## Connect from Windows using OpenSSH ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square)
 
-1. Install PuTTY
+1. Install **PuTTY**
 
    Download and install PuTTY from the official website: [PuTTY Download](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
    
