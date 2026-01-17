@@ -1,4 +1,8 @@
-## Before you start
+> [!NOTE]  
+> OpenSSH is pre-installed & running by default on Rocky Linux 9 (no setup script needed).  
+> This guide summarizes Windows client connection methods.
+
+## Before you start 
 
 Set the Rocky Linux 9 VM network adapter to **Bridged Adapter** so it gets an IP address on the same network as your Windows machine.
 
