@@ -1,7 +1,7 @@
 #!/bin/sh
 # Telnet server setup script for Linux
-# Created by Sewon Kim
-# Run as sudo ./setup_telnet_server.sh
+# Created by: Sewon Kim
+# Run as: sudo ./setup_telnet_server.sh
 
 set -e
 
