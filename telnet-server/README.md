@@ -21,7 +21,7 @@ Set the Rocky Linux 9 VM network adapter to **Bridged Adapter** so it gets an IP
 
 ## Connect from Windows using Telnet ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square)
 
-1. Run **Command Prompt as Administrator**.
+1. Run **Command Prompt as Administrator**
 
 2. Enable the Telnet client:
    ```cmd
