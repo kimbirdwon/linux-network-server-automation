@@ -19,7 +19,7 @@ Set the Rocky Linux 9 VM network adapter to **Bridged Adapter** so it gets an IP
    
    Use this IP address when connecting from Windows.
 
-## Connect from Windows using Remote Desktop ![Remote Desktop](https://img.shields.io/badge/-Remote%20Desktop-0078D4?logo=microsoft&logoColor=white&style=flat-square)
+## Connect from Windows using XRDP ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square)
 
 1. Open **Remote Desktop Connection**
    
