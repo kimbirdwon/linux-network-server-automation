@@ -1,9 +1,11 @@
 #!/bin/sh
-# Telnet server setup script for Linux
+# Telnet server setup script for Rocky Linux 9
 # Created by: Sewon Kim
 # Run as: sudo ./setup_telnet_server.sh
 
 set -e
+
+echo "Setting up telnet server..."
 
 # Install telnet server
 dnf -y install telnet-server
